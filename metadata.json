@@ -1,0 +1,6 @@
+{
+  "name": "Ren Anime Bot",
+  "description": "An emphatic and slightly stoic virtual anime assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
